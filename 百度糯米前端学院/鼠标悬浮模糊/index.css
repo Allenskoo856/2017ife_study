@@ -1,0 +1,138 @@
+/*CSS Reset*/
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+
+#container{
+    width: 768px;
+    height: 432px;
+    margin: 80px auto;
+    position: relative;
+}
+
+#text{
+    width: 461px;
+    height: 260px;
+    vertical-align: middle;
+
+    /*垂直水平居中*/
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+/***文本内容居中显示***/
+#text-container{
+    width: 461px;
+    height: 260px;
+    display: table-cell;
+
+    text-align: center;
+    vertical-align: middle;
+
+    font-family: Microsoft YaHei,宋体,sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+/*“欢迎”语句的流光效果*/
+@media all and (-webkit-min-device-pixel-ratio:0) and (min-resolution: .001dpcm) {
+    .masked{
+        background-image: -webkit-linear-gradient(left, #147B96, #E6D205 25%, #147B96 50%, #E6D205 75%, #147B96);
+        -webkit-text-fill-color: transparent;
+        -webkit-background-clip: text;
+        -webkit-background-size: 200% 100%;
+        -webkit-animation: masked-animation 4s infinite linear;
+    }
+}
+@-webkit-keyframes masked-animation {
+    0%  { background-position: 0 0;}
+    100% { background-position: -100% 0;}
+}
+
+/*******参加按钮的渐变效果*******/
+#text-container a{
+    animation: 3s moving infinite;
+}
+@keyframes moving {
+    25%{
+        color: #52a44b;
+    }
+    50%{
+        color: #4ca2bb;
+    }
+    100%{
+        color: #1114a4;
+    }
+}
+
+/*上升滑动进入效果*/
+#container:hover > .slide-up{
+    opacity: 1;
+    transform: translateY(-10px);
+}
+.slide-up{
+    opacity: 0;
+    transform: translateY(10px);
+    transition: opacity 0.3s,transform 1.5s;
+}
+
+/*边框伸展并连接到一起的效果*/
+.border-connect{
+    border: none;
+    position: relative;
+    z-index: 3;
+}
+.border-connect:before,.border-connect:after{
+    content:" ";
+    display: block;
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-bottom: 4px solid #F3F4F5;
+    border-top: 4px solid #F3F4F5;
+    border-left: 2px solid #F3F4F5;
+    border-right: 2px solid #F3F4F5;
+    transition-property: width,height,left,top;
+    transition-duration: 0.9s;
+    transition-timing-function: ease-in;
+}
+.border-connect:before{
+    height: 100%;
+    left: 50%;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    z-index: -4;
+}
+#container:hover > .border-connect:before{
+    transition-duration: 0.8s;
+    left: 0;
+    width: 100%;
+}
+.border-connect:after{
+    width: 100%;
+    top: 50%;
+    border-top-color: transparent;
+    border-bottom-color: transparent;
+    z-index: -3;
+}
+#container:hover > .border-connect:after{
+    height: 100%;
+    top: 0;
+}
+
+/*图片模糊效果*/
+.hover-blur{
+    transition: filter,0.8s,ease-in;
+}
+#container:hover > .hover-blur{
+    filter: blur(3px);
+    -webkit-filter: blur(3px);
+}
