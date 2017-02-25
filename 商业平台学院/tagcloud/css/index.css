@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/********************
+           tagCloud
+******************************************/
+
+.tagcloud{
+    width: 600px;
+    height: 600px;
+    margin: 50px auto;
+    position: relative;
+}
+.tagcloud a{
+    display: block;
+    text-decoration: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #000;
+    font-size: 15px;
+    font-family: "宋体 微软雅黑";
+    font-weight: bold;
+}
+.tagcloud a:hover{
+    border: 1px solid #666;
+}
+
+/*********************************************
+               form
+*********************************************/
+.ui.form{
+    position: absolute;
+    top: 637px;
+    left: 314px;
+}
+.showbtn{
+    position: absolute;
+    top: 659px;
+    right: 177px;
+}
