@@ -72,11 +72,14 @@ function init() {
     scene.add(TorusGeometry2);
 
 
+    var floorMeterial = THREE.ImageUtils.loadTexture("images/floor.jpg",{},function () {
+        renderer.render(scene, camera)
+    })
     /*这是平面*/
     var plane = new THREE.Mesh(
         new THREE.PlaneBufferGeometry(6,6,1,1),
-        new  THREE.MeshPhongMaterial({
-            color: 0x7777ff
+        new  THREE.MeshLambertMaterial({
+            map: floorMeterial
         })
     );
     plane.rotation.x = -0.5*Math.PI;
@@ -90,16 +93,14 @@ function init() {
     var spotlights = new THREE.DirectionalLight(0xffffff,1,100);
     spotlights.position.set(8,8,6);
     spotlights.castShadow = true;
-    spotlights.target = cube; spotlights.target = TorusGeometry1;
-    spotlights.target  =TorusGeometry2;
-    spotlights.shadowCameraVisible = true;
+    spotlights.target = cube;
     scene.add(spotlights);
 
-    //Set up shadow properties for the light
-    spotlights.shadow.mapSize.width = 512;  // default
-    spotlights.shadow.mapSize.height = 512; // default
-    spotlights.shadow.camera.near = 0.5;       // default
-    spotlights.shadow.camera.far = 500      // default
+    spotlights.shadow.camera.near = 1
+    spotlights.shadow.camera.far = 100
+    spotlights.shadow.camera.visible = true
+    spotlights.shadow.mapSize.Width = 1024
+    spotlights.shadow.mapSize.Height = 1024
 
 
     /*图形渲染*/
