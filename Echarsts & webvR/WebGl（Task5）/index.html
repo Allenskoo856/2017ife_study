@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>WgGL Task5</title>
+    <script src='../libs/three.js'></script>
+    <script src='../libs/ColladaLoader.js'></script>
+    <script src='../libs/jquery-1.9.0.js'></script>
+    <script src='../libs/TrackballControls.js'></script>
+    <script src='../libs/stats.js'></script>
+    <style>
+        body{
+            margin: 0;
+            overflow: hidden;
+        }
+        .text-content{
+            position: absolute;
+            top: 0px;
+            right: 0px;
+        }
+        .text-content p{
+            color: #0d71bb;
+            font-size: 14px;
+        }
+    </style>
+</head>
+
+<body>
+        <div class="stats"></div>
+        <div class="text-content">
+            <p>鼠标左键旋转、中键缩放、右键平移</p>
+            <p>键盘 WASD 控制小车的前进、左转、后退、右转</p>
+        </div>
+        <div class="webgl"></div>
+</body>
+
+        <script type='text/javascript'>
+            $(function () {
+                var clock = new THREE.Clock();
+               /*创建statas动画监视性能*/
+               var stats = initStats()
+               function initStats() {
+                   var stats = new Stats();
+                   stats.setMode(0); // 0 fps 1 ms
+                   stats.domElement.style.position = 'absolute';
+                   stats.domElement.style.left = '0px';
+                   stats.domElement.style.top  = '0px';
+                   $('.stats').append(stats.domElement);
+                   return stats;
+               }
+
+               /*创建场景*/
+                var scene = new THREE.Scene();
+                var camera = new THREE.PerspectiveCamera(45, window.innerWidth / window.innerHeight, 0.1, 1000);
+                var webGLRenderer = new THREE.WebGLRenderer();
+                webGLRenderer.setClearColor(0xcccccc, 1.0);
+                webGLRenderer.setSize(window.innerWidth, window.innerHeight);
+                webGLRenderer.shadowMapEnabled = true;
+
+                camera.position.set(150,150,150);
+                camera.lookAt(new THREE.Vector3(0, 20, 0));
+
+                /*添加光源*/
+                var spotLight = new THREE.SpotLight(0xffffff);
+                spotLight.position.set(150, 150, 150);
+                spotLight.intensity = 2;
+                scene.add(spotLight);
+
+                $(".webgl").append(webGLRenderer.domElement);
+
+                /*小车材质引入 dae*/
+                var loader = new THREE.ColladaLoader();
+                var mesh;
+                loader.load("../assets/models/dae/Truck_dae.dae",
+                    function (result) {
+                    mesh = result.scene.children[0].children[0].clone();
+                    mesh.scale.set(3, 3, 3);
+                    scene.add(mesh);
+                    }
+                );
+
+                /*创建地平面开始*/
+                var ground = THREE.SceneUtils.createMultiMaterialObject(
+                    new THREE.PlaneGeometry(1500,1500,50,50),
+                    [
+                        new THREE.MeshBasicMaterial({
+                            wireframe: true,
+                            overdraw: true,
+                            color: 000000
+                    }),
+                        new THREE.MeshBasicMaterial({
+                            color: 0x00ff00,
+                            transparent: true,
+                            opacity: 0.5
+                        })
+                    ]
+                );
+                ground.rotation.x = -0.5 * Math.PI;
+                scene.add(ground);
+
+                // 建立三维坐标系的尺寸
+                var axes = new THREE.AxisHelper(100);
+                scene.add(axes);
+
+                /*用鼠标控制相机滚动*/
+                var traceball = new THREE.TrackballControls(camera);
+                traceball.rotateSpeed = 1.0;
+                traceball.zoomSpeed = 1.0;
+                traceball.panSpeed = 1.0;
+                traceball.staticMoving = true;
+
+                /*WSAD 控制移动*/
+               /* $(document).keydown(function (event) {
+                    alert(event.keyCode);
+                    // w = 87 s = 83 a = 65 d= 68;
+                });*/
+               /*
+               * rotation改变的是子对象的坐标系，但是不改变本身的坐标系角度，所以想要改变其自身的坐标系方向，可以为其添加父对象，然后改变父对象的rotation。
+               *
+               * */
+
+               $(document).keydown(function (event) {
+                   if (event.keyCode == 87)
+                   {
+                       mesh.position.x += 10;
+                   }else if (event.keyCode == 83)
+                   {
+                       mesh.position.x -= 10;
+                   }else if(event.keyCode == 65)
+                   {
+                       mesh.rotation.y += Math.PI / 50;
+                   }else if(event.keyCode == 68)
+                   {
+                       mesh.rotation.y -= Math.PI / 50;
+                   }
+               });
+
+
+
+                /*动态 渲染*/
+               render();
+               function render() {
+                   stats.update();
+                   var delta = clock.getDelta();   // 得到每次渲染的时间
+                   traceball.update(delta);
+
+                   requestAnimationFrame(render);  // 动画渲染效果
+                   webGLRenderer.render(scene, camera)
+               }
+            });
+        </script>
+
+</html>

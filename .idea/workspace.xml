@@ -2,8 +2,317 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f99d4e02-adad-4cff-af0f-506bf3f37838" name="默认" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/webGL（task4）demo/index.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task3）/task3DEMO.zip" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/audio/cat.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/audio/cow.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/audio/dog.ogg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/fonts/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/fonts/bitstream_vera_sans_mono_roman.typeface.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/fonts/droid/NOTICE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/fonts/droid/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/fonts/droid/droid_sans_bold.typeface.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/fonts/droid/droid_sans_mono_regular.typeface.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/fonts/droid/droid_sans_regular.typeface.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/fonts/droid/droid_serif_bold.typeface.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/fonts/droid/droid_serif_regular.typeface.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/fonts/gentilis_bold.typeface.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/fonts/gentilis_regular.typeface.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/fonts/helvetiker_bold.typeface.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/fonts/helvetiker_regular.typeface.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/fonts/optimer_bold.typeface.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/fonts/optimer_regular.typeface.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/GuyFawkesMask.ply" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/GuyFawkesMask_Cycles.mtl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/GuyFawkesMask_Cycles.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/MinecraftSteve.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/SolidHead_2_lowPoly_42k.stl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/UVCube1.mtl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/UVCube1.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/UVCube2.mtl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/UVCube2.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/alien.dae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/alien.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/alien.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/apple.ply" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/aspirin.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/assimp/SpiderTex.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/assimp/drkwood2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/assimp/engineflare1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/assimp/spider.obj.assimp.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/assimp/wal67ar_small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/assimp/wal69ar_small.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/auditt_wheel.ctm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/awd/MonsterHead.awd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/awd/PolarBear.awd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/awd/monsterhead_diffuse.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/awd/monsterhead_normals.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/awd/monsterhead_specular.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/awd/simple.awd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/babylon/skull.babylon" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/buffalo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/buffalo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/bunny.vtk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/butterfly-jos-blend-2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/butterfly-jos-blend.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/butterfly.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/butterfly.mtl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/butterfly.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/butterflywings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/city.mtl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/city.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/coffee_machine.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/cube1.blend" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/cubes.dae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/Medieval_building.DAE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/Truck_dae.dae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/images/RooftilesWood0005_2_S.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/images/RooftilesWood0005_2_Sspec.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/images/WoodPlanksBare0002_1_S.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/images/WoodPlanksBare0002_1_Sspec.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/images/WoodRough0106_2_S.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/images/WoodRough0106_2_Spec.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/images/black.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/images/default_specular.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/images/out_0_6E339CC8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/images/panneau_col.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/images/white.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/images/yellow.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/tex/Grass.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/tex/Grass_alph.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/tex/TrckGR.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/tex/TrckGR.tga" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/tex/TrckGRNrml.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/tex/TruckR.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/tex/TruckR.tga" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dae/tex/TruckRNrml.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/diamond.pdb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/dolphins.ply" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/gltf/Cesium_Air.gltf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/gltf/monster.bin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/gltf/monster.dae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/gltf/monster.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/gltf/monster.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/gltf/monster0FS.glsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/gltf/monster0VS.glsl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/gltf/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/hand-1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/hand-2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/hand.blend" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/horse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/jessica/jessica.lwo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/jessica/jessica.max" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/jessica/jessica.mb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/jessica/jessica.mtl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/jessica/jessica.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/jessica/jessica/1174-bump.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/jessica/jessica/1174-normal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/jessica/jessica/1174.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/jessica/jessica/Jessica Body Normals.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/jessica/jessica/Jessica Body.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/jessica/jessica/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/jessica/jessica/fmouth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/jessica/jessica/hair_bits.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/jessica/jessica/jessica_head_skin_d.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/mechanika_espresso_texture.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/misc_chair01.blend" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/misc_chair01.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/misc_chair01_col.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/moai_fixed.vtk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/monster.dae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/monster.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/ogre/ogro.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/ogre/ogro.md2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/ogre/skins/skin.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/pinecone.mtl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/pinecone.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/rigged-2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/rigged_hand-3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/rigged_hand-4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/rigged_hand-5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/rigged_hand.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/sol/LibertStatue.mtl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/sol/LibertStatue.obj" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/sol/Liberty-DecorazioniMarmo-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/sol/Liberty-GreenBronze-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/sol/Liberty-MattoniBasamento-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/sol/Liberty-Pavimentazione-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/sol/Liberty-PortaBronzo-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/test.ply" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/models/vrml/tree.wrl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/movies/Big_Buck_Bunny_small.ogv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/animals/cat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/animals/cow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/animals/dog.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/ash_uvgrid01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/crate_color8.tga" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/cubemap/banquet.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/cubemap/parliament/negx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/cubemap/parliament/negy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/cubemap/parliament/negz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/cubemap/parliament/posx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/cubemap/parliament/posy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/cubemap/parliament/posz.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/cubemap/parliament/readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/general/bathroom-normal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/general/bathroom.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/general/brick-wall.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/general/darker_wood.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/general/floor-wood.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/general/metal-floor-normal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/general/metal-floor.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/general/metal-rust.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/general/plaster-diffuse.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/general/plaster-normal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/general/plaster.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/general/stone-bump.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/general/stone.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/general/weave-bump.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/general/weave.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/general/wood-2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/ground/grasslight-big.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/lensflare/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/lensflare/hexangle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/lensflare/lensflare0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/lensflare/lensflare0_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/lensflare/lensflare1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/lensflare/lensflare2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/lensflare/lensflare3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/lensflare/lensflare4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/lightmap/lm-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/metro01.JPG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/particles/raindrop-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/particles/raindrop-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/particles/raindrop-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/particles/snowflake1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/particles/snowflake2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/particles/snowflake3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/particles/snowflake4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/particles/snowflake5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/particles/sprite-sheet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/particles/two_drops.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/planets/Earth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/planets/EarthNormal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/planets/EarthSpec.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/planets/Mars-normalmap_2k.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/planets/Mars_2k-050104.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/planets/earth-specular.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/planets/earth.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/planets/mars_1k_color.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/planets/mars_1k_normal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/seafloor.dds" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/soil_diffuse.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/soil_normal.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/soil_specular.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/starry-deep-outer-space-galaxy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/assets/textures/tex_base.pvr" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/AsciiEffect.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/CTMLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/CTMWorker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/ColladaLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/ConvexGeometry.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/CopyShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/EffectComposer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/FXAAShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/FirstPersonControls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/FlyControls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/GeometryExporter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/JSONLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/JSONLoader_old.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/MD2Character.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/MTLLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/MaskPass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/OBJLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/OBJMTLLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/OrbitControls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/PDBLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/PLYLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/ParametricGeometries.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/PathControls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/RenderPass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/RollControls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/STLLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/SceneExporter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/SceneLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/ShaderDeferred.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/ShaderPass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/ThreeBSP.coffee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/ThreeBSP.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/TrackballControls.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/VTKLoader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/WebGLDeferredRenderer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/ammo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/chroma.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/coffee-script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/ctm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/d3-threeD.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/dat.gui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/jquery-1.9.0.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/literally/css/literally.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/literally/img/alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/literally/img/eraser.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/literally/img/eyedropper.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/literally/img/hue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/literally/img/line.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/literally/img/pan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/literally/img/pencil.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/literally/img/rectangle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/literally/img/saturation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/literally/img/screenshot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/literally/jquery-1.8.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/literally/js/literallycanvas.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/literally/js/literallycanvas.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/literally/underscore-1.4.2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/lzma.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/perlin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/physi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/physijs_worker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/postprocessing/BloomPass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/postprocessing/DotScreenPass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/postprocessing/EffectComposer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/postprocessing/FilmPass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/postprocessing/MaskPass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/postprocessing/RenderPass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/postprocessing/SavePass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/postprocessing/ShaderPass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/postprocessing/TexturePass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/BasicShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/BleachBypassShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/BlendShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/BokehShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/BrightnessContrastShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/ColorCorrectionShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/ColorifyShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/ConvolutionShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/CopyShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/DOFMipMapShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/DotScreenShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/EdgeShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/EdgeShader2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/FXAAShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/FilmShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/FocusShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/FresnelShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/HorizontalBlurShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/HorizontalTiltShiftShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/HueSaturationShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/KaleidoShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/LuminosityShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/MirrorShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/NormalMapShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/RGBShiftShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/SSAOShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/SepiaShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/TriangleBlurShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/UnpackDepthRGBAShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/VerticalBlurShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/VerticalTiltShiftShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/shaders/VignetteShader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/sketch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/spin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/stats.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/three.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/libs/tween.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/webGL（task4）demo/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -21,7 +330,18 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task5）/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3672">
+              <caret line="134" column="55" lean-forward="true" selection-start-line="134" selection-start-column="55" selection-end-line="134" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -71,6 +391,7 @@
         <option value="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-02/06-mesh-properties.html" />
         <option value="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-02/08-cameras-lookat.html" />
         <option value="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/webGL（task4）demo/index.html" />
+        <option value="$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task5）/index.html" />
       </list>
     </option>
   </component>
@@ -103,8 +424,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -145,11 +464,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WebGl（Task4）" />
+              <option name="myItemId" value="WebGl（Task5）" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017ife_study" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2017ife_study" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webGL（task4）demo" />
+              <option name="myItemId" value="Echarsts &amp; webvR" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -167,26 +496,18 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="WebGl（Task4）" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017ife_study" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="2017ife_study" />
+              <option name="myItemId" value="WebGl（Task3）" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Echarsts &amp; webvR" />
+              <option name="myItemId" value="task3DEMO" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -310,17 +631,18 @@
       <workItem from="1488375421686" duration="8124000" />
       <workItem from="1488426510841" duration="15475000" />
       <workItem from="1488525634031" duration="4333000" />
+      <workItem from="1488539536898" duration="5247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122378000" />
+    <option name="totallyTimeSpent" value="127625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1378" height="754" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18656716" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16119403" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32903227" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -372,365 +694,73 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-03/01-ambient-light.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-03/02-point-light.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-03/03-spot-light.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-03/04-directional-light.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1287">
-          <caret line="71" column="24" lean-forward="true" selection-start-line="71" selection-start-column="24" selection-end-line="71" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-03/05-hemisphere-light.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1314">
-          <caret line="180" column="17" lean-forward="true" selection-start-line="180" selection-start-column="17" selection-end-line="180" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-03/06-area-light.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-03/07-lensflares.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/01-basic-mesh-material.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/02-depth-material.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/03-combined-material.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/04-mesh-normal-material.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/05-mesh-face-material.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/06-mesh-lambert-material.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/07-mesh-phong-material.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/08-shader-material.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="32" column="9" lean-forward="true" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/09-line-material.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/01-basic-2d-geometries-plane.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/02-basic-2d-geometries-circle.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/03-basic-2d-geometries-shape.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/04-basic-3d-geometries-cube.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/05-basic-3d-geometries-sphere.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/06-basic-3d-geometries-cylinder.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/07-basic-3d-geometries-torus.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/08-basic-3d-geometries-torus-knot.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/09-basic-3d-geometries-polyhedron.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-06/01-advanced-3d-geometries-convex.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-06/02-advanced-3d-geometries-lathe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-06/03-extrude-geometry.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-06/04-extrude-tube.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-06/05-extrude-svg.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-06/06-parametric-geometries.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-06/07-text-geometry.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-06/08-binary-operations.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/01-particles.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1620">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/02-particles-webgl.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/03-basic-particle-system.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/04-program-based-particle-system.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/05-program-based-particle-system-webgl.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/06-rainy-scene.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/07-snowy-scene.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/09-sprites-3D.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/08-sprites.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/10-create-particle-system-from-model.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-08/01-grouping.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-08/02-merging.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-09/01-basic-animation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-09/02-selecting-objects.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-09/03-animation-tween.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-09/04-trackball-controls-camera.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-09/05-fly-controls-camera.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="47" column="104" lean-forward="false" selection-start-line="47" selection-start-column="104" selection-end-line="47" selection-end-column="104" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-03/03-spot-light.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-03/04-directional-light.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-03/05-hemisphere-light.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-03/06-area-light.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-03/07-lensflares.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/01-basic-mesh-material.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/02-depth-material.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/03-combined-material.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/04-mesh-normal-material.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/05-mesh-face-material.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/06-mesh-lambert-material.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/07-mesh-phong-material.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/08-shader-material.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-04/09-line-material.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/01-basic-2d-geometries-plane.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/02-basic-2d-geometries-circle.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/03-basic-2d-geometries-shape.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/04-basic-3d-geometries-cube.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/05-basic-3d-geometries-sphere.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/06-basic-3d-geometries-cylinder.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/07-basic-3d-geometries-torus.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/08-basic-3d-geometries-torus-knot.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-05/09-basic-3d-geometries-polyhedron.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-06/01-advanced-3d-geometries-convex.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-06/02-advanced-3d-geometries-lathe.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-06/03-extrude-geometry.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-06/04-extrude-tube.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-06/05-extrude-svg.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-06/06-parametric-geometries.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-06/07-text-geometry.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-06/08-binary-operations.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/01-particles.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/02-particles-webgl.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/03-basic-particle-system.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/04-program-based-particle-system.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/05-program-based-particle-system-webgl.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/06-rainy-scene.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/07-snowy-scene.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/09-sprites-3D.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/08-sprites.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-07/10-create-particle-system-from-model.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-08/01-grouping.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-08/02-merging.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-09/01-basic-animation.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-09/02-selecting-objects.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-09/03-animation-tween.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-09/04-trackball-controls-camera.html" />
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/sorce/learning-threejs/chapter-09/05-fly-controls-camera.html" />
     <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task4）/webGL（task4）demo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1476">
           <caret line="80" column="48" lean-forward="true" selection-start-line="80" selection-start-column="48" selection-end-line="80" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task3）/task3DEMO/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="28" column="20" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="28" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Echarsts &amp; webvR/WebGl（Task5）/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3672">
+          <caret line="134" column="55" lean-forward="true" selection-start-line="134" selection-start-column="55" selection-end-line="134" selection-end-column="55" />
           <folding />
         </state>
       </provider>
